@@ -3,7 +3,6 @@
 using System.Threading.Channels;
 using DiffieHellMan.Console;
 
-Console.WriteLine("Hello, World!");
 
 var clientPublicKey = DiffieHellmanKeyExchange.CreatePublicKey();
 
