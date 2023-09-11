@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3m1hGIBXIWzIDdRd5WdrWsPNo/zMNmOh4G9yFxeZRbVEWsPPxhM7u2yvPAx+puVgG1L0RKcVAzJwwe7QRM3fJg==",
+  "success": true,
+  "projectFilePath": "/Users/asimgunduz/Projects/Diffie-Hellman/DiffieHellMan.Console/DiffieHellMan.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/asimgunduz/.nuget/packages/bouncycastle.netcore/2.2.1/bouncycastle.netcore.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
